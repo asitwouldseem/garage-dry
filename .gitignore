@@ -43,3 +43,4 @@ fp-info-cache
 *.kicad_prl
 /libraries
 .DS_Store
+garage-dry.kicad_dru
